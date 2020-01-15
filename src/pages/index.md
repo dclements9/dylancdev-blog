@@ -5,7 +5,7 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      Software Engineer using Ruby, Javascript, & React to make friendly, enjoyable experiences on the web.
+      Software Engineer using Ruby, Javascript, & React to make friendly, enjoyable experiences on the web. Currently learning Python. Enjoying the never ending adventure of code.
   - section_id: about
     component: ContentBlock
     type: contentblock
