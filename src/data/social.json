@@ -1,0 +1,22 @@
+{
+    "links": [
+        {
+            "type": "twitter",
+            "title": "Twitter",
+            "icon": "fa-twitter",
+            "url": "https://twitter.com/DevDylanC"
+        },
+        {
+            "type": "github",
+            "title": "GitHub",
+            "icon": "fa-github",
+            "url": "https://github.com/dclements9"
+        },
+        {
+            "type": "devto",
+            "title": "DEV",
+            "icon": "fa-dev",
+            "url": "https://dev.to/dclements9"
+        }
+    ]
+}
