@@ -11,7 +11,7 @@ sections:
     type: contentblock
     title: About
     content: >-
-      Versatile software engineer with over 7 years of experience in IT. Skilled in analysis, troubleshooting, and incident management resolution with a proven record of achievement in resolving critical issues. Expertise in IT infrastructure, hardware, and software. 
+      Versatile software engineer with over 8 years of experience in IT. Skilled in analysis, troubleshooting, and incident management resolution with a proven record of achievement in resolving critical issues. Expertise in IT infrastructure, hardware, and software. 
     actions:
       - label: Contact Me
         url: /contact
