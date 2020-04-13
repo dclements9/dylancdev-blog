@@ -15,7 +15,7 @@
     "fs-extra": "^7.0.1",
     "gatsby": "^2.18.22",
     "gatsby-plugin-react-helmet": "^3.0.0",
-    "gatsby-source-filesystem": "2.0.28",
+    "gatsby-source-filesystem": "^2.2.2",
     "gatsby-transformer-remark": "2.3.8",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
